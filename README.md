@@ -44,3 +44,4 @@ Add-Type -TypeDefinition @"
 [Py3]::Py_Finalize()
 ```
 
+![alt text](https://github.com/billchaison/PSPy/raw/main/pspy.png)
